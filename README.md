@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Almeida-a)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Original: https://github.com/ryo-ma/github-profile-trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Almeida-a)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
 
 <!--
 **Almeida-a/Almeida-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
