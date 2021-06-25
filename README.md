@@ -5,8 +5,9 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<!--  Stats  -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Almeida-a&show_icons=true&line_height=21&theme=react" alt="Almeida-a's Github Stats" />
+<!--  Git Stats  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Almeida-a&show_icons=true&line_height=21&theme=gruvbox" alt="Almeida-a's Github Stats" />
+
 
 <!--
 **Almeida-a/Almeida-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
