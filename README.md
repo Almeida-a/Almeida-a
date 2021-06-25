@@ -5,9 +5,8 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Almeida-a&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeida-a&theme=react&line_height=27&layout=compact" />
-</p>
+<!--  Stats  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Almeida-a&show_icons=true&line_height=21&theme=react" alt="Almeida-a's Github Stats" />
 
 <!--
 **Almeida-a/Almeida-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
